@@ -1,0 +1,150 @@
+
+
+.main1
+{
+    margin:0;
+    height: 105px;
+    background-color: #1f2e67;
+}
+
+.rounded
+{
+    height: 100px;
+    width:100px;
+    
+}
+.text-start
+{
+    font-family:'Poppins', sans-serif;
+    
+    font-size: 25px;
+    font-weight:bolder;
+    color: #eaf0f6;
+    
+    
+
+}
+
+.navbar
+{
+    color: #002248;
+}
+
+
+.main2
+{
+    margin:0;
+}
+
+.left
+{
+    width: 20%;
+    height: 1850px;
+    background-color: #1f2e67;
+    float: left;
+    padding: 30px;
+}
+
+.right
+{
+    width: 80%;
+    height: 1850px;
+    background-color: #edf0f5;
+    float: left;
+    padding: 10px;
+    background-image: url('bg02.webp');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+.r1
+{
+    width: 50%;
+    float: left;
+    height: 350px;
+    margin-top: 35px;
+}
+
+.r2 
+{
+    width: 50%;
+    float: left;
+    height: 350px;
+    margin-top: 35px;
+}
+
+.rr1
+{
+    width:98%;
+    float: left;
+    text-align: center;
+    padding: 10px;
+    border: solid 3px;
+    border-radius: 5px;
+    height: 350px;
+    margin-left: 5px;
+}
+
+.rr2
+{
+    width: 98%;
+    float: left;
+    text-align: center;
+    padding: 10px;
+    border: solid 3px;
+    border-radius: 5px;
+    height: 350px;
+    margin-left: 5px;
+}
+
+
+.img-fluid
+{
+    margin-top: 90px;
+    width: 100%;
+
+}
+
+
+.line
+{
+    border: solid 2px;
+    background-color: #002248;
+}
+.section-heading
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    color: #1f2e67;
+}
+
+
+
+.custom-p
+{
+    font-size: 19px;
+    font-family: 'Poppins', sans-serif;
+    color: #002248;
+    justify-content: center;
+}
+
+
+
+.box
+{
+    
+    height: 500px;
+    background-color: #1f2e67;
+    margin-top: 60px;
+}
+
+.btn
+{
+    height: 70px;
+}
+
+
+
